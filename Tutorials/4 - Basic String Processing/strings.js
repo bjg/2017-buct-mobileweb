@@ -48,4 +48,4 @@ console.log("React Native".indexOf("Native"))
 // We can upper- or lower-case the contents of a string
 
 console.log("abcd".toUpperCase())
-console.log("EFGH".toLowerCase())
+console.log("ABCD".toLowerCase())
