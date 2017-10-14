@@ -2,8 +2,6 @@
 // Arrays are used to store multiple values in a single variable.
 // This is in contrast to scalar variables that can store only one value.
 
-// An array can be 
-
 // This is an empty array declared with the literal constructor syntax
 const empty1 = []
 

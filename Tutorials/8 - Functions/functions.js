@@ -11,7 +11,7 @@ function foo() {
 
 foo();
 
-// A function does now have to be named in Javascript. Such functions are called anonymous functions
+// A function does not have to be named in Javascript. Such functions are called anonymous functions
 // and are actually more commmon
 
 (function() {

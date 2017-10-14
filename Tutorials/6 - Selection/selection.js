@@ -24,7 +24,7 @@ if (n > max) {
 
 // if-statements can be nexted inside other if-statements
 const min = 20;
-if (n > max) {
+if (n < max) {
     //console.log(`${n} is less than ${max}!`)
     if (n < min) {
         //console.log(`${n} is less than ${min}!`)
@@ -67,7 +67,8 @@ switch (c) {
         //console.log(`${c} is something else`)
 }
 
-// We have to declare and assign a variable based on the value of another variable or expression
+// We have to declare and assign a variable based on the value of another 
+// variable or expression
 
 // The long way (and obvious wat)
 let p;
