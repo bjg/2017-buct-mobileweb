@@ -4,7 +4,7 @@ console.log("Object.assign copy: ", Object.assign({}, o1))
 
 // And merged
 const o2 = { fruit2: "pear"}
-const o3 = Object.assign(o1, o2)
+const o3 = Object.assign({}, o1, o2)
 console.log("Object.assign merge: ", o3)
 
 // The ES6 spread operator (three dots) can merge objects using a more intuitive syntax
